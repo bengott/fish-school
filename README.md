@@ -1,8 +1,18 @@
 # Fish School
 
-MATLAB Simulation of Fish Schooling Behavior
+### MATLAB Simulation of Fish Schooling Behavior
 
-Written to explore the structure and behavior of fish schools via a computer simulation. Investigates parameters such as school size, form, density, speed, and nearest-neighbor distance between individuals. Demonstrates some of the basic principles of self-organization, a phenomenon in nature that leads to complex structures and behaviors based on a set of simple rules.
+Final Project for MATH 463 - Introduction to Mathematical Biology (University of Michigan)
+
+Written by: Ben Gott and Kevin Lim
+
+Date: December 2007
+
+Objectives:
+
+- Explore the structure and behavior of fish schools via a computer simulation.
+- Investigate parameters such as school size, form, density, speed, and nearest-neighbor distance between individuals.
+- Demonstrate some of the basic principles of self-organization, a phenomenon in nature that leads to complex structures and behaviors based on a set of simple rules.
 
 
 References:
