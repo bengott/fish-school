@@ -8,6 +8,8 @@ Written by: Ben Gott and Kevin Lim
 
 Date: December 2007
 
+Final paper: https://docs.google.com/file/d/0B2s79tSoas8rVktwaUZ5VFZqeWpHSmxhckRXRElOZTNlLW44/
+
 Objectives:
 
 - Explore the structure and behavior of fish schools via a computer simulation.
